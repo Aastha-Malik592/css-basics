@@ -1,0 +1,93 @@
+h3{
+    color: rgb(202, 26, 26);
+    text-align:center;
+    text-decoration: underline;
+}
+p{
+    color:blue;
+    font-weight:bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 5px;;
+}
+body{
+    background-color: pink;
+}
+button{
+    color: rgb(176, 204, 16);
+    background-color: rgb(10,60,80);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    
+}
+.hex{
+    color:#e48f11;
+    font-weight: 500;
+    
+}
+#unique{
+    color:green;
+
+}
+#box{
+background-color: blue;
+}
+/* a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;;
+border-style:solid;
+border-width: 5px;
+border-color: black;
+border-radius: 10px;
+} */
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 20px;
+    height: 100px;
+    width: 500px;
+    color: red;
+    text-align: right;
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    padding-left: 20px;
+      background-color: aqua;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    text-align: center;
+    background-color: aqua;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    margin-top: 25px;
+      background-color: rgba(255,0,0,0.5);
+    
+    
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+    color:aliceblue;
+}
+#logo{
+    color: #e48f11;
+    font-size: larger;
+}
+a{
+    margin-right: 200px;
+}
